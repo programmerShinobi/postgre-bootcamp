@@ -1,4 +1,4 @@
-# Learn Postgre SQL Basic From Code X Academy
+# Postgre SQL Basic From Code X Academy
 ## Learn Postgre SQL Basic
 
 This template should help get you started developing with Postgre SQL Basic.
