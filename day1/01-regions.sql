@@ -1,4 +1,6 @@
--- Create table regions
+-- create table in postgres database
+
+-- create table regions
 CREATE TABLE regions (
 	region_id SERIAL,
 	region_name VARCHAR(25),

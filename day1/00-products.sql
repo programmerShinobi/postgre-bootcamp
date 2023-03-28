@@ -1,3 +1,5 @@
+-- create table in postgres database
+
 -- add TABLE products
 CREATE TABLE products ( 
     product_code CHAR(4) PRIMARY KEY, 

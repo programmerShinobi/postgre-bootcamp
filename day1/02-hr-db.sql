@@ -1,3 +1,5 @@
+-- create table in hr-db database
+
 -- import 1
 -- create table regions
 CREATE TABLE regions (
