@@ -36,7 +36,7 @@ CREATE TABLE locations (
     DEFAULT NULL,
 	state_province VARCHAR (25) 
     DEFAULT NULL,
-	country_id CHAR 
+	country_id CHAR (2)
     NOT NULL,
 	CONSTRAINT pk_location_id 
     PRIMARY KEY (location_id),
@@ -56,7 +56,6 @@ CREATE TABLE jobs(
 	CONSTRAINT pk_job_id 
     PRIMARY KEY (job_id)
 );
-
 
 -- import 2
 -- create table departments
